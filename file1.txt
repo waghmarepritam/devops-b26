@@ -1,2 +1,4 @@
 this is new devops batch at evening
 this is fresh new batch
+diff bet rebase and merge command
+diff bet unstaged and stadge in git
