@@ -1,2 +1,4 @@
 hello world
 new batch started 
+welcome to linux batch
+new line added in file
