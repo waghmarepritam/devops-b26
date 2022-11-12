@@ -1,2 +1,2 @@
-# devops-b26
-new devops batch data
+# DEV-ops-26B
+only for private users
